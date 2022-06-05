@@ -1,0 +1,2 @@
+# ContacManager
+ Inheritance distribution
